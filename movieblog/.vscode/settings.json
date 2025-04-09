@@ -1,0 +1,7 @@
+{
+   "liveServer.settings.port": 8082,
+  "liveServer.settings.host": "localhost",
+  "liveServer.settings.root": "/",
+  "liveServer.settings.CustomBrowser": "chrome",
+  "liveServer.settings.donotShowInfoMsg": true,
+}
